@@ -1,6 +1,6 @@
 {
   "name": "@vezlo/ai-validator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AI Response Validator - Automated accuracy checking, hallucination prevention, and confidence scoring for AI responses",
   "main": "dist/src/index.js",
   "types": "dist/src/index.d.ts",

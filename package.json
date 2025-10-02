@@ -1,0 +1,61 @@
+{
+  "name": "@vezlo/ai-validator",
+  "version": "1.0.0",
+  "description": "AI Response Validator - Automated accuracy checking, hallucination prevention, and confidence scoring for AI responses",
+  "main": "dist/src/index.js",
+  "types": "dist/src/index.d.ts",
+  "bin": {
+    "vezlo-validator-test": "./dist/bin/test.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run clean && npm run build",
+    "dev": "tsc --watch",
+    "clean": "rm -rf dist",
+    "test": "node dist/bin/test.js"
+  },
+  "keywords": [
+    "ai",
+    "validator",
+    "validation",
+    "accuracy",
+    "hallucination",
+    "confidence",
+    "openai",
+    "claude",
+    "rag",
+    "llm",
+    "knowledge-base",
+    "ai-response",
+    "response-validation"
+  ],
+  "author": "Vezlo",
+  "license": "AGPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vezlo/ai-validator.git"
+  },
+  "homepage": "https://github.com/vezlo/ai-validator#readme",
+  "bugs": {
+    "url": "https://github.com/vezlo/ai-validator/issues"
+  },
+  "files": [
+    "dist/",
+    "README.md",
+    "LICENSE"
+  ],
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.31.0",
+    "inquirer": "^9.2.20",
+    "openai": "^4.77.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.17.0",
+    "typescript": "^5.7.2"
+  },
+  "engines": {
+    "node": ">=20.0.0",
+    "npm": ">=9.0.0"
+  }
+}

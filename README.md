@@ -1,6 +1,6 @@
 # AI Validator
 
-[![npm version](https://badge.fury.io/js/%40vezlo%2Fai-validator.svg)](https://badge.fury.io/js/%40vezlo%2Fai-validator)
+[![npm version](https://img.shields.io/npm/v/@vezlo/ai-validator.svg)](https://www.npmjs.com/package/@vezlo/ai-validator)
 [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL%203.0-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
 **AI Response Validator** - Automated accuracy checking, hallucination prevention, and confidence scoring for AI responses.

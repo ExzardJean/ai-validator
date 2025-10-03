@@ -334,6 +334,6 @@ See the [LICENSE](LICENSE) file for complete AGPL-3.0 license terms.
 
 ---
 
-**Status**: ✅ Production Ready | **Version**: 1.0.0 | **License**: AGPL-3.0 | **Node.js**: 20+
+**Status**: ✅ Production Ready | **Version**: 1.0.2 | **License**: AGPL-3.0 | **Node.js**: 20+
 
-**Made with ❤️ by [Vezlo](https://vezlo.com)**
+**Made with ❤️ by [Vezlo](https://vezlo.org)**

